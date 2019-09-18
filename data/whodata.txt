@@ -1,0 +1,8 @@
+zyz  console  Sep 18 19:31  (192.168.0.6)
+zyz  ttys000  Sep 18 22:51  (:0.0)
+zyz  ttys001  Sep 18 22:52  (:0.0)
+zyz  ttys002  Sep 18 22:53  (:0.0)
+zyz  ttys003  Sep 18 22:54  (:0.0)
+zyz  ttys004  Sep 18 22:55  (:0.0)
+zyz  ttys005  Sep 18 22:56  (:0.0)
+zyz  ttys006  Sep 18 22:57  (:0.0)
